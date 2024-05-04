@@ -90,12 +90,6 @@ This challenge was a great learning opportunity, it was also very useful to rein
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Author
-
--   Instagram - [@cosmo_art0](https://www.instagram.com/cosmo_art0/)
--   Frontend Mentor - [@CosmoArt](https://www.frontendmentor.io/profile/cosmoart)
--   Twitter - [@CosmoArt0](https://twitter.com/cosmoart0)
--   My personal page - [https://cosmoart.vercel.app](https://cosmoart.vercel.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
